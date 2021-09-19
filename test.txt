@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 apple
 grp
 jaat
 thar
 mexico
 
+||||||| b9ce384
+=======
+hii
+hello
+abc
+1234
+
+>>>>>>> test
