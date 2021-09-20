@@ -3,6 +3,11 @@ mango
 cherry
 
 
+beer
+wine
+whisky
+
+
 
 tiger
 deer
